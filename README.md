@@ -1,34 +1,14 @@
-# Daniel Veronez
+### Platform engineer building cloud, API, and mobile systems.
 
-Platform engineer building cloud, API, and mobile systems.
+I work primarily on production platforms and digital products across several domains:
 
----
+• FinTech  
+• HealthTech  
+• EduTech  
 
-## Domains
+Most of my work focuses on:
 
-FinTech  
-HealthTech  
-EduTech  
-
----
-
-## Stack
-
-TypeScript  
-Python  
-React / React Native  
-Cloud: GCP, Azure  
-
----
-
-## Focus
-
-• Building production platforms and APIs  
-• Mobile systems and cross-platform applications  
-• Enterprise integrations and SaaS platforms  
-
----
-
-## Links
-
-LinkedIn: https://linkedin.com/in/danielveronez
+• TypeScript and Python services  
+• React and React Native applications  
+• Cloud infrastructure on GCP and Azure  
+• Enterprise SaaS integrations and APIs
