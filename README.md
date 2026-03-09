@@ -1,6 +1,6 @@
 ### Platform engineer building cloud, API, and mobile systems.
 
-I mostly work on production platforms and digital products across a few domains:
+Most of my work focuses on production platforms and digital products in a few domains:
 
 • 💳 FinTech  
 • 🏥 HealthTech  
@@ -8,7 +8,7 @@ I mostly work on production platforms and digital products across a few domains:
 • 🛒 Commerce & SaaS platforms  
 • 🔐 Crypto and distributed systems  
 
-Typical things I spend my time on:
+Common areas I work in:
 
 • 🛠 TypeScript and Python services  
 • 📱 React and React Native applications  
