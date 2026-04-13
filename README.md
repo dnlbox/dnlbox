@@ -4,7 +4,7 @@ Most of my work focuses on production platforms and digital products in a few do
 
 • 💳 FinTech  
 • 🏥 HealthTech  
-• 🎓 EduTech  
+• 🎓 EdTech  
 • 🛒 Commerce & SaaS platforms  
 • 🔐 Crypto and distributed systems  
 
