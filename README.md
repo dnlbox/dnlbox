@@ -6,6 +6,7 @@ Most of my work focuses on production platforms and digital products in a few do
 • 🏥 HealthTech  
 • 🎓 EdTech  
 • 🛒 Commerce & SaaS platforms  
+• 🧠 Agentic Workflow
 • 🔐 Crypto and distributed systems  
 
 Common areas I work in:
